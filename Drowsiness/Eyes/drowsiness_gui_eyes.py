@@ -18,7 +18,7 @@ def load_model_safe(filepath):
         st.error(f"Error loading model: {e}")
         return None
 
-model = load_model_safe('./VGG16Drowsiness.keras')
+model = load_model_safe('./VGG16Drowsiness.h5')
 
 if model is None:
     st.stop()  # Stop the app if the model fails to load
