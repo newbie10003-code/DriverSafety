@@ -10,7 +10,7 @@ import playsound
 import pygame
 
 # Load the pre-trained Keras model
-model = load_model('CustomCNNDrowsiness.h5')
+model = load_model('VGG16Drowsiness.h5')
 
 # Load the Haar Cascade for face detection
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
