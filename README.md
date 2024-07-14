@@ -57,8 +57,8 @@ This project demonstrates the potential of deep learning models in enhancing roa
 
 ## Authors
 
-- Rameshwari Kapoor
-- Rashmi Kuliyal
+- [Rameshwari Kapoor](https://github.com/RameshwariKapoor)
+- [Rashmi Kuliyal](https://github.com/Kuliyalrashmi)
 - Nilesh Bhanot
 
 ## Note
