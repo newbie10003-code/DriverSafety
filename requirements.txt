@@ -3,5 +3,7 @@ opencv-python
 tensorflow
 keras
 pygame
-playsound
 streamlit
+matplotlib
+seaborn
+pandas
